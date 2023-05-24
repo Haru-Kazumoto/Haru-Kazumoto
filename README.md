@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/Haru-Kazumoto/Portofolio](https://github.com/Haru-Kazumoto/Portofolio)
 
-- ⚡ Fun fact **I'm not really into web design, but if you ask me to do it, budget to hire me XD**
+- ⚡ Fun fact **I'm not really into web design, but if you ask me to do it, prepare a budget to hire me XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
