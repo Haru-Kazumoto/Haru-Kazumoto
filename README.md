@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziaurrahman Athaya</h1>
-<h3 align="center">A passionate Backend developer from Indonesia!</h3>
+<h3 align="center">A passionate and skilled Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haru-kazumoto&label=Profile%20views&color=0e75b6&style=flat" alt="haru-kazumoto" /> </p>
 
