@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haru-kazumoto" alt="haru-kazumoto" /></a> </p>
 
-- 🔭 I’m currently Internship on IT Company in Indonesia, project that i've work on : **Elektronik Journal Monitoring & Human Resource Management**
+- 🔭 I'm currently freelancing at a school agency, the project I'm working on right now is: **Inventory Application and PPDB Online**
 
 - 🌱 I’m currently learning **Go (Echo), Java (Springboot), Javascript(Nestjs,Node)**
 
