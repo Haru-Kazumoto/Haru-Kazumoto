@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently freelancing at a school agency, the project I'm working on right now is: **Inventory Application and PPDB Online**
 
-- 🌱 I’m currently learning **Go (Echo), Java (Springboot), Javascript(Nestjs,Node)**
+- 🌱 I’m currently mastering on **Go (Echo), Java (Springboot), Javascript(Nestjs,Node)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haru-Kazumoto](https://github.com/Haru-Kazumoto)
 
