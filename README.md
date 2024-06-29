@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haru-kazumoto" alt="haru-kazumoto" /></a> </p>
 
-- 🔭 I'm currently freelancing at a school agency, the project I'm working on right now is: **Inventory Application and PPDB Online**
+- 🔭 I'm currently freelancing right now
 
-- 🌱 I’m currently mastering on **Go (Echo), Java (Springboot), Javascript(Nestjs,Node)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Haru-Kazumoto](https://github.com/Haru-Kazumoto)
+- 🌱 I’m currently learning on **Laravel, NuxtJs**
 
 - 📫 How to reach me **jiaathaya@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Haru-Kazumoto/Portofolio](https://github.com/Haru-Kazumoto/Portofolio)
+- 📄 Know about my experiences [My Linkedin Here!](https://github.com/Haru-Kazumoto/Portofolio](https://www.linkedin.com/in/ziaurrahman-athaya-393b81264/))
 
-- ⚡ Fun fact **I'm not really into web design, but if you ask me to do it, prepare a budget to hire me XD**
+- ⚡ Fun fact **I hate designing, but I love designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
