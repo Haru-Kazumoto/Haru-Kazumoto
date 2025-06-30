@@ -7,13 +7,11 @@
 
 - 🔭 I'm currently freelancing right now
 
-- 🌱 I’m currently learning on **Laravel, NuxtJs**
+- 🌱 I’m currently learning on **NuxtJs and AngularJs**
 
 - 📫 How to reach me **jiaathaya@gmail.com**
 
-- 📄 Know about my experiences [My Linkedin Here!](https://github.com/Haru-Kazumoto/Portofolio](https://www.linkedin.com/in/ziaurrahman-athaya-393b81264/))
-
-- ⚡ Fun fact **I hate designing, but I love designing**
+- 📄 Know about my experiences [My Portofolio]((https://haru-kazumoto.github.io/ziaurrahman/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
