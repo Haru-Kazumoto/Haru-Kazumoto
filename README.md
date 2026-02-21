@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://haru-kazumoto.github.io/ziaurrahman/](https://haru-kazumoto.github.io/ziaurrahman/)
 
-- 💬 Ask me about **vuejs, angularjs, etc**
+- 💬 Ask me about **system architecture, concurrency, etc**
 
 - 📫 How to reach me **jiaathaya@gmail.com**
 
